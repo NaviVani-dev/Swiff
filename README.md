@@ -12,7 +12,7 @@
 - Over 100k of flash content available! Just click Download and Play! (Huge thanks to the [Flashpoint Archive](https://flashpointarchive.org/))
 - On-Screen controls for keyboard and mouse input
 - Gamepad mapping to keyboard and mouse input
-- Proxy to trick games into thinking they are running on their official websites
+- Offline proxy to trick games into thinking they are running on their official websites
 - Frontend and Android shortcuts support (including automatic frontend syncing)
 - Export your savefiles to a custom folder (for syncing with apps like [Syncthing](https://github.com/syncthing))
 - Custom SWF content importing (Custom games support every feature Swiff has to offer)
