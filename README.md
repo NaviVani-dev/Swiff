@@ -5,6 +5,8 @@
 
 **Enjoy your favourite Flash games and animations on Android!**
 
+*(And now with HTML5 games)*
+
 </div>
 
 ---
@@ -14,6 +16,8 @@
 - On-Screen controls for keyboard and mouse input
 - Gamepad mapping to keyboard and mouse input
 - Offline proxy to trick games into thinking they are running on their official websites
+- Newgrounds integration: Download games from the website and unlock medals!
+- HTML5 games: Enjoy modern browser games on Swiff
 - Frontend and Android shortcuts support (including automatic frontend syncing)
 - Export your savefiles to a custom folder (for syncing with apps like [Syncthing](https://github.com/syncthing))
 - Custom SWF content importing (Custom games support every feature Swiff has to offer)
