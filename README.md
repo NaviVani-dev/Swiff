@@ -84,8 +84,10 @@ I dunno, this is one of my best projects and I kinda wanna have control over it 
 
 ## Acknowledgement
 - Everyone who made the flash games! You guys made the childhood of a lot of people on the internet.
+- The [Ruffle project](https://ruffle.rs/) and the [AwayFL project](https://awayfl.org/) for making Flash content playable again!
 - This app would'nt be possible without the [Flashpoint Archive](https://flashpointarchive.org/). We use their database to display and download all of the games in the app.
 - Also, huge shoutout to [lnkd](https://buymeacoffee.com/lnkd) for helping me test the app prototypes, suggesting cool features and making the logo of the app.
+- And another shoudout to [Anti](https://tristan-serva-com.l.ink/) for making some sound effects for the app!
 
 ## ☕ Support Me
 If you enjoy this project and you have an extra buck, please consider donating to my Ko-Fi!
