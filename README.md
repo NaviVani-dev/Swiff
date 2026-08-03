@@ -1,15 +1,14 @@
-<div align="center">
-  <img alt="Swiff - Flash games (and animations) on Android" src="https://github.com/user-attachments/assets/890ff492-4d30-4d64-9edf-234122bcea63" />
+<picture>
+  <source
+    width="100%"
+    srcset="./promo.png"
+  />
+  <img width="250" src="./promo.png"" />
+</picture>
 
-<p></p>
+<h1 align="center">Swiff</h1>
 
-**Enjoy your favourite Flash games and animations on Android!**
-
-*(And now with HTML5 games)*
-
-</div>
-
----
+<p align="center">Bringing Flash/HTML5 games to Android, dead simple.</p>
 
 ## Features
 - Over 100k of flash content available! Just click Download and Play! (Huge thanks to the [Flashpoint Archive](https://flashpointarchive.org/))
@@ -21,8 +20,6 @@
 - Frontend and Android shortcuts support (including automatic frontend syncing)
 - Export your savefiles to a custom folder (for syncing with apps like [Syncthing](https://github.com/syncthing))
 - Custom SWF content importing (Custom games support every feature Swiff has to offer)
-
-<img alt="Swiff running on different Android devices" src="https://github.com/user-attachments/assets/80dfeb1b-32db-4714-968e-7abcbe27ad97" />
 
 ## Download
 You can download Swiff from the Releases page!
