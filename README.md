@@ -8,18 +8,18 @@
 
 <h1 align="center">Swiff</h1>
 
-<p align="center">Bringing Flash/HTML5 games to Android, dead simple.</p>
+<p align="center">Bringing Flash games and more to Android, dead simple.</p>
 
 ## Features
 - Over 100k of flash content available! Just click Download and Play! (Huge thanks to the [Flashpoint Archive](https://flashpointarchive.org/))
+- More than Flash: Play **HTML5, J2ME and Scratch games**, all in the same app!
 - On-Screen controls for keyboard and mouse input
 - Gamepad mapping to keyboard and mouse input
 - Offline proxy to trick games into thinking they are running on their official websites
 - Newgrounds integration: Download games from the website and unlock medals!
-- HTML5 games: Enjoy modern browser games on Swiff
 - Frontend and Android shortcuts support (including automatic frontend syncing)
 - Export your savefiles to a custom folder (for syncing with apps like [Syncthing](https://github.com/syncthing))
-- Custom SWF content importing (Custom games support every feature Swiff has to offer)
+- Custom content importing (Custom games support every feature Swiff has to offer)
 
 ## Download
 You can download Swiff from the Releases page!
