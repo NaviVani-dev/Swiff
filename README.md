@@ -1,14 +1,32 @@
 <picture>
   <source
     width="100%"
-    srcset="./promo.png"
+    srcset="./assets/promo.png"
   />
   <img width="250" src="./promo.png"" />
 </picture>
 
-<h1 align="center">Swiff</h1>
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/logo_light.png">
+    <img alt="Swiff Logo" src="./assets/swiff-light.png" width="34">
+  </picture>
+  Swiff
+</h1>
 
 <p align="center">Bringing Flash games and more to Android, dead simple.</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%"><img src="assets/gplay1.png" alt="Demo Picture 1" width="180"/></td>
+      <td align="center" width="25%"><img src="assets/gplay2.png" alt="Demo Picture 2" width="180"/></td>
+      <td align="center" width="25%"><img src="assets/gplay3.png" alt="Demo Picture 3" width="180"/></td>
+      <td align="center" width="25%"><img src="assets/gplay4.png" alt="Demo Picture 4" width="180"/></td>
+    </tr>
+  </table>
+</div>
 
 ## Features
 - Over 100k of flash content available! Just click Download and Play! (Huge thanks to the [Flashpoint Archive](https://flashpointarchive.org/))
