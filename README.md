@@ -61,31 +61,23 @@ Having an error with Swiff? You have a cool idea? Please check this repository I
 <details>
 <summary><strong>What is Swiff?</strong></summary>
 
-It's an application to run old Flash games and animations directly on your Android devices.
+It's an application to run old Flash games and animations directly on your Android devices. It has been evolving into an app to also enjoy J2ME games, Scratch games and Web games, all of them with the same features!
 
 </details>
 
 <details>
 <summary><strong>Does every game works?</strong></summary>
 
-We use [Ruffle](https://ruffle.rs/) to play Flash content on your device, if the flash content play nice on Ruffle then it's almost 99% possible that Swiff will be able to run it
+Depends on what player you're using, Swiff offers to play Flash content with Ruffle and AwayFL out of the box, however, after [Version 1.3](https://github.com/NaviVani-dev/Swiff/releases/tag/v1.3.0) you can now play Flash content using the original Flash Player, which should make all games compatible!
 
 </details>
-
 
 <details>
   
 <summary><strong>Why was Swiff made?</strong></summary>
 
-I wanted to play [A Koopa Revenge 2](https://www.newgrounds.com/portal/view/646067) on my AYN Thor, I tried some alternatives on Android, but most of them were full of ads, slow, and didn't play well with Android frontends, so i decided to build my own
-
-</details>
-
-<details>
-  
-<summary><strong>Will Swiff be updated?</strong></summary>
-
-Yes! I tried to pack a lot of useful features on the 1.0 version, but if someone can suggest usefull features that could benefict everyone or some annoying bugs show up I will update the app.
+I wanted to play [A Koopa Revenge 2](https://www.newgrounds.com/portal/view/646067) on my AYN Thor, I tried some alternatives on Android, but most of them were full of ads, slow, and didn't play well with Android frontends, so i decided to build my own.
+If you wanna know more about me or Swiff, you can [read this interview!](https://gardinerbryant.com/inside-swiff-an-interview-with-navivani/)
 
 </details>
 
@@ -97,12 +89,27 @@ I dunno, this is one of my best projects and I kinda wanna have control over it 
 
 </details>
 
+<details>
+  
+<summary><strong>Who is that anime girl on the art?</strong></summary>
+
+That's [Swiff-chan](./assets/swiffchan-ref.png)! The mascot of the app, she says hi.
+<picture>
+  <source
+    srcset="./assets/swiffchanhi.png"
+  />
+  <img width="350" src="./assets/swiffchanhi.png"" />
+</picture>
+
+</details>
+
 ## Acknowledgement
 - Everyone who made the flash games! You guys made the childhood of a lot of people on the internet.
 - The [Ruffle project](https://ruffle.rs/) and the [AwayFL project](https://awayfl.org/) for making Flash content playable again!
 - This app would'nt be possible without the [Flashpoint Archive](https://flashpointarchive.org/). We use their database to display and download all of the games in the app.
 - Also, huge shoutout to [lnkd](https://buymeacoffee.com/lnkd) for helping me test the app prototypes, suggesting cool features and making the logo of the app.
 - And another shoudout to [Anti](https://tristan-serva-com.l.ink/) for making some sound effects for the app!
+For a full list of credits and licenses, please check the Licenses page in-app
 
 ## ☕ Support Me
 If you enjoy this project and you have an extra buck, please consider donating to my Ko-Fi!
